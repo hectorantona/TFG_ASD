@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1e8529b4-b750-4beb-8d09-de83ccb1cbbf" name="Discovery" url="http://xfer.discovery.neu.edu">
+        <fileTransfer host="xfer.discovery.neu.edu" port="22" rootFolder="/scratch/talesim" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

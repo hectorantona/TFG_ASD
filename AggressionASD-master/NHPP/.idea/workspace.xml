@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fcb4a0f-6172-4afa-aa01-eded130ead4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/tales.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plot_rocs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_batch_discovery.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NHPP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NHPP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/featureextraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/featureextraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plottools.py" beforeDir="false" afterPath="$PROJECT_DIR$/plottools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poissonprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/poissonprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulation_NHPP.py" beforeDir="false" afterPath="$PROJECT_DIR$/simulation_NHPP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulation_multiscale_NHPP.py" beforeDir="false" afterPath="$PROJECT_DIR$/simulation_multiscale_NHPP.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1OyM3h9Oitpz0ZswJPPsPPmkbpu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/temp" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="NHPP" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="NHPP" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.plot_rocs">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="NHPP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_rocs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NHPP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_rocs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="poissonprocess" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NHPP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/talesCode/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poissonprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simulation_NHPP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NHPP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simulation_NHPP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simulation_NHPP_discovery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NHPP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simulation_NHPP_discovery.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simulation_multiscale_NHPP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NHPP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simulation_multiscale_NHPP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.poissonprocess" />
+      <item itemvalue="Python.simulation_NHPP" />
+      <item itemvalue="Python.simulation_multiscale_NHPP" />
+      <item itemvalue="Python.plot_rocs" />
+      <item itemvalue="Python.simulation_NHPP_discovery" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plot_rocs" />
+        <item itemvalue="Python.simulation_multiscale_NHPP" />
+        <item itemvalue="Python.simulation_NHPP_discovery" />
+        <item itemvalue="Python.simulation_NHPP" />
+        <item itemvalue="Python.poissonprocess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fcb4a0f-6172-4afa-aa01-eded130ead4c" name="Default Changelist" comment="" />
+      <created>1562075930465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562075930465</updated>
+      <workItem from="1576007906228" duration="16710000" />
+      <workItem from="1578322575718" duration="10053000" />
+      <workItem from="1579808885938" duration="655000" />
+      <workItem from="1579991197172" duration="615000" />
+      <workItem from="1582125751902" duration="6051000" />
+      <workItem from="1584485240749" duration="2904000" />
+      <workItem from="1584651044349" duration="725000" />
+      <workItem from="1584907422647" duration="8789000" />
+      <workItem from="1584982202917" duration="5170000" />
+      <workItem from="1585083477911" duration="226000" />
+      <workItem from="1585240428070" duration="2346000" />
+      <workItem from="1585254158410" duration="35556000" />
+      <workItem from="1586755821547" duration="7984000" />
+      <workItem from="1587140564871" duration="8563000" />
+      <workItem from="1587415775146" duration="1613000" />
+      <workItem from="1587525655413" duration="202000" />
+      <workItem from="1587565629655" duration="1303000" />
+      <workItem from="1587875258007" duration="15660000" />
+      <workItem from="1587926647147" duration="6672000" />
+      <workItem from="1587961259375" duration="109000" />
+      <workItem from="1587996054862" duration="3779000" />
+      <workItem from="1588089630544" duration="16018000" />
+      <workItem from="1588210504107" duration="148000" />
+      <workItem from="1588273172060" duration="3430000" />
+      <workItem from="1588449710827" duration="6771000" />
+      <workItem from="1588537563492" duration="12126000" />
+      <workItem from="1588701245627" duration="6693000" />
+      <workItem from="1588805929615" duration="191000" />
+      <workItem from="1588811443264" duration="20000" />
+      <workItem from="1589213945632" duration="11000" />
+      <workItem from="1589215080160" duration="4078000" />
+      <workItem from="1589754701725" duration="6200000" />
+      <workItem from="1589821312486" duration="945000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="201" width="800" height="684" key="#Deployment" timestamp="1587525710038">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="201" width="800" height="684" key="#Deployment/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1587525710038" />
+    <state x="693" y="289" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588449827028">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="693" y="289" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1588449827028" />
+    <state x="538" y="205" width="350" height="224" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1585448164604">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="538" y="205" width="350" height="224" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/70.27.1296.741@70.27.1296.741" timestamp="1585448164604" />
+    <state x="1990" y="27" width="642" height="741" key="#simulation_multiscale_NHPP" timestamp="1584485259400">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state x="1990" y="27" width="642" height="741" key="#simulation_multiscale_NHPP/1920.0.1366.768/0.27.1920.1053@1920.0.1366.768" timestamp="1584485259400" />
+    <state width="1503" height="568" key="DebuggerActiveHint" timestamp="1587928538678">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1503" height="568" key="DebuggerActiveHint/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1587928538678" />
+    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog" timestamp="1587933199372">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1587933199372" />
+    <state x="743" y="298" width="374" height="353" key="FileChooserDialogImpl" timestamp="1588773835116">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="298" width="424" height="491" key="FileChooserDialogImpl/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1588773835116" />
+    <state x="572" y="218" width="374" height="353" key="FileChooserDialogImpl/1920.0.1366.768/70.27.1296.741@70.27.1296.741" timestamp="1585249320138" />
+    <state x="506" y="199" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1585528106578" />
+    <state width="1874" height="183" key="GridCell.Tab.0.bottom" timestamp="1589810507218">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="488" key="GridCell.Tab.0.bottom/0.27.3286.1053@0.27.3286.1053" timestamp="1587924793509" />
+    <state width="1874" height="183" key="GridCell.Tab.0.bottom/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1589810507218" />
+    <state width="1034" height="690" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1582148799348" />
+    <state width="1250" height="244" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1587902901688" />
+    <state width="1874" height="183" key="GridCell.Tab.0.center" timestamp="1589810507218">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="488" key="GridCell.Tab.0.center/0.27.3286.1053@0.27.3286.1053" timestamp="1587924793508" />
+    <state width="1874" height="183" key="GridCell.Tab.0.center/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1589810507218" />
+    <state width="1034" height="690" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1582148799348" />
+    <state width="1250" height="244" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1587902901688" />
+    <state width="1874" height="183" key="GridCell.Tab.0.left" timestamp="1589810507218">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="488" key="GridCell.Tab.0.left/0.27.3286.1053@0.27.3286.1053" timestamp="1587924793508" />
+    <state width="1874" height="183" key="GridCell.Tab.0.left/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1589810507218" />
+    <state width="1034" height="690" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1582148799348" />
+    <state width="1250" height="244" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1587902901687" />
+    <state width="1874" height="183" key="GridCell.Tab.0.right" timestamp="1589810507218">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="488" key="GridCell.Tab.0.right/0.27.3286.1053@0.27.3286.1053" timestamp="1587924793509" />
+    <state width="1874" height="183" key="GridCell.Tab.0.right/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1589810507218" />
+    <state width="1034" height="690" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1582148799348" />
+    <state width="1250" height="244" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1587902901688" />
+    <state width="1874" height="183" key="GridCell.Tab.1.bottom" timestamp="1589810507218">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="488" key="GridCell.Tab.1.bottom/0.27.3286.1053@0.27.3286.1053" timestamp="1587924793510" />
+    <state width="1874" height="183" key="GridCell.Tab.1.bottom/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1589810507218" />
+    <state width="1034" height="690" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1582148799349" />
+    <state width="1250" height="244" key="GridCell.Tab.1.bottom/70.27.1296.741@70.27.1296.741" timestamp="1587902887996" />
+    <state width="1874" height="183" key="GridCell.Tab.1.center" timestamp="1589810507218">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="488" key="GridCell.Tab.1.center/0.27.3286.1053@0.27.3286.1053" timestamp="1587924793510" />
+    <state width="1874" height="183" key="GridCell.Tab.1.center/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1589810507218" />
+    <state width="1034" height="690" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1582148799348" />
+    <state width="1250" height="244" key="GridCell.Tab.1.center/70.27.1296.741@70.27.1296.741" timestamp="1587902887996" />
+    <state width="1874" height="183" key="GridCell.Tab.1.left" timestamp="1589810507218">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="488" key="GridCell.Tab.1.left/0.27.3286.1053@0.27.3286.1053" timestamp="1587924793510" />
+    <state width="1874" height="183" key="GridCell.Tab.1.left/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1589810507218" />
+    <state width="1034" height="690" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1582148799348" />
+    <state width="1250" height="244" key="GridCell.Tab.1.left/70.27.1296.741@70.27.1296.741" timestamp="1587902887996" />
+    <state width="1874" height="183" key="GridCell.Tab.1.right" timestamp="1589810507218">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="488" key="GridCell.Tab.1.right/0.27.3286.1053@0.27.3286.1053" timestamp="1587924793510" />
+    <state width="1874" height="183" key="GridCell.Tab.1.right/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1589810507218" />
+    <state width="1034" height="690" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1582148799349" />
+    <state width="1250" height="244" key="GridCell.Tab.1.right/70.27.1296.741@70.27.1296.741" timestamp="1587902887996" />
+    <state x="376" y="168" width="900" height="737" key="SettingsEditor" timestamp="1588806121047">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="376" y="168" width="1022" height="737" key="SettingsEditor/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1588806121047" />
+    <state x="373" y="31" width="900" height="737" key="SettingsEditor/1920.0.1366.768/70.27.1296.741@70.27.1296.741" timestamp="1584959075779" />
+    <state width="960" height="540" key="XDebugger.FullValuePopup" timestamp="1587930136193">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="960" height="540" key="XDebugger.FullValuePopup/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1587930136193" />
+    <state x="616" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1589215851081">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="367" key="com.intellij.ide.util.TipDialog/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1589215851081" />
+    <state x="728" y="460" width="454" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589755685019">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="728" y="460" width="454" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1589755685019" />
+    <state x="1990" y="27" width="1296" height="741" key="dock-window-1" timestamp="1587927378220">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state x="1990" y="27" width="1296" height="741" key="dock-window-1/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1587927378220" />
+    <state x="704" y="183" width="501" height="720" key="refactoring.ChangeSignatureDialog" timestamp="1588104979167">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="704" y="183" width="501" height="720" key="refactoring.ChangeSignatureDialog/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1588104979167" />
+    <state x="461" y="115" width="996" height="964" key="search.everywhere.popup" timestamp="1588534130977">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="461" y="115" width="996" height="964" key="search.everywhere.popup/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1588534130977" />
+    <state x="381" y="89" width="672" height="678" key="search.everywhere.popup/70.27.1296.741@70.27.1296.741" timestamp="1587875871090" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/poissonprocess.py</url>
+          <line>165</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/simulation_NHPP.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/poissonprocess.py</url>
+          <line>516</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/simulation_NHPP_discovery.py</url>
+          <line>218</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/poissonprocess.py</url>
+          <line>409</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plot_rocs.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NHPP$simulation_multiscale_NHPP.coverage" NAME="simulation_multiscale_NHPP Coverage Results" MODIFIED="1589755769511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NHPP$simulation_NHPP_discovery.coverage" NAME="simulation_NHPP_discovery Coverage Results" MODIFIED="1588538231319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NHPP$plot_rocs.coverage" NAME="plot_rocs Coverage Results" MODIFIED="1589807235835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NHPP$simulation_NHPP.coverage" NAME="simulation_NHPP Coverage Results" MODIFIED="1576082522624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
