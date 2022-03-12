@@ -16,7 +16,7 @@ def get_train_test_data(
     train_files: int,
     test_files: int
 ) -> Tuple[pd.DataFrame, pd.DataFrame]:
-    all_files = glob.glob('./datasets/CBS_SESSIONS/*.csv')
+    all_files = glob.glob('./datasets/CBS_SESSIONS_NORM/*.csv')
     train = pd.DataFrame()
     it = 0
     for it in range(0, train_files - 1):

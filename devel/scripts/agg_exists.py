@@ -4,7 +4,7 @@ import pandas as pd
 
 # Script to see which files have agg and how many.
 
-all_files = glob.glob('./datasets/CBS_SESSIONS/*.csv')
+all_files = glob.glob('./datasets/CBS_SESSIONS_NORM/*.csv')
 
 for file in all_files:
 
@@ -19,5 +19,3 @@ for file in all_files:
 
     file_to_check = file_to_check['Condition']
     print(file_to_check.sum(), file)
-
-

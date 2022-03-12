@@ -18,7 +18,7 @@ from typing import Tuple
 def get_train_test_data(
     num_files: int,
 ) -> Tuple[pd.DataFrame, pd.DataFrame]:
-    all_files = glob.glob('./datasets/CBS_SESSIONS/*.csv')
+    all_files = glob.glob('./datasets/CBS_SESSIONS_NORM/*.csv')
     files_list = list(range(0, num_files))
     random.shuffle(files_list)
     threshold = round(num_files*0.8)
@@ -35,12 +35,12 @@ def get_train_test_data(
 
 def get_binary_model():
     model = Sequential()
-    model.add(Dense(5, activation='relu', input_shape=(5,)))
+    model.add(Dense(5, activation='relu', input_shape=(5,))) # Change the input
     model.add(Dense(150, activation='relu'))
     model.add(Dropout(0.2))
     model.add(Dense(100, activation='relu'))
     model.add(Dropout(0.2))
-    model.add(Dense(50, activation='relu'))
+    model.add(Dense(50, activation='relu')) # Reduce layers and/or units
     model.add(Dropout(0.2))
     model.add(Dense(20, activation='relu'))
     model.add(Dropout(0.2))
@@ -65,7 +65,7 @@ model.compile(loss='binary_crossentropy', optimizer=opt, metrics=['AUC'])
 model.fit(
     train_x, train_y,
     validation_data=(test_x, test_y),
-    batch_size=32, epochs=300, verbose=2,
+    batch_size=32, epochs=100, verbose=2,
     class_weight=class_weight
 )
 
