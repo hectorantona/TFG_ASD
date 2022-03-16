@@ -18,7 +18,7 @@ from typing import Tuple
 def get_train_test_data(
     num_files: int,
 ) -> Tuple[pd.DataFrame, pd.DataFrame]:
-    all_files = glob.glob('./datasets/CBS_SESSIONS_NORM/*.csv')
+    all_files = glob.glob('./datasets/CBS_SESSIONS/*.csv')
     files_list = list(range(0, num_files))
     random.shuffle(files_list)
     threshold = round(num_files*0.8)
